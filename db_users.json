@@ -1,0 +1,23 @@
+[{
+    "firstName":"rania",
+    "lastName":"dridi",
+    "phoneNumber":23654789,
+    "email":"rania@gmail.com",
+    "password":"1123654"
+},
+{
+    "firstName":"nawres",
+    "lastName":"ourheni",
+    "phoneNumber":23654789,
+    "email":"nawres@gmail.com",
+    "password":"12345789"
+},
+{
+    "firstName":"amel",
+    "lastName":"benali",
+    "phoneNumber":21456987,
+    "email":"benali@gmail.com",
+    "password":"azerty123"
+}
+
+]
