@@ -1,4 +1,6 @@
 node_modules/
 npm-debug.log
 .env
-echo "firebase/serviceAccountKeys.json"
+echo "firebase/serviceAccountKeys.json" 
+firebase/serviceAccountKeys.json
+firebase/firebaseService.js
