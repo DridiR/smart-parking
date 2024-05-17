@@ -1,0 +1,7 @@
+# Configurez les fins de ligne pour les fichiers texte
+* text=auto
+
+# Fichiers spécifiques
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
